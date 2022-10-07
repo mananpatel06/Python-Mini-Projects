@@ -1,11 +1,11 @@
 # Python-Mini-Projects
 
-QR code generator. 
+1) QR code generator. 
 
-Audio Book (Pdf to audio converter).
+2) Audio Book (Pdf to audio converter).
 
-Find differance between two images.
+3) Find differance between two images.
 
-Sketch image converter.
+4) Sketch image converter.
 
-Take a screenshot.
+5) Take a screenshot.
