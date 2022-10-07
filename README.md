@@ -8,4 +8,4 @@ Find differance between two images.
 
 Sketch image converter.
 
-Take screenshot.
+Take a screenshot.
