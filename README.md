@@ -1,5 +1,7 @@
 # Python-Mini-Projects
 
+These projects are included in project folder.
+
 1) QR code generator. 
 
 2) Audio Book (Pdf to audio converter).
