@@ -6,4 +6,4 @@ Audio Book (Pdf to audio converter).
 
 Find differance between two images.
 
-Sketch image conveerter.
+Sketch image converter.
