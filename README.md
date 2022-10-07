@@ -1,6 +1,6 @@
 # Python-Mini-Projects
 
-These projects are included in project folder.
+These projects are included in Projects folder.
 
 1) QR code generator. 
 
