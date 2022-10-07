@@ -1,6 +1,6 @@
 # Python-Mini-Projects
 
-QR code genrator. 
+QR code generator. 
 
 Audio Book (Pdf to audio converter).
 
